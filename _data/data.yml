@@ -58,27 +58,17 @@ education:
       university: Maharishi University of Management
       time: 2014 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+       - Developed OnlineMart.com, an ecommerce application based on Spring and
+          Hibernate Framework using a MySQL Database.
+       - Developed extensive Hibernate mapping and configuration files.
+       - Developed the Spring container business logic and used Spring framework for
+          dependency injection.
+       - Developed and consumed web services. 
 
     - degree: Bachelor in Computer Engineering
       university: Pokhara University
       time: 2007 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
     - role: Java Developer
@@ -102,29 +92,40 @@ experiences:
 
     - role: Software Engineer
       time: 2015 - 2017
-      company: Google, London
+      company: Chemical Abstract Service, Columbus, OH
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Contributed hands-on programming and coding expertise to development of web
+        application form Chemical related Search Engine based on Hadoop and Cascading as a
+        backend data processor for all chemical related study and research with excellent userfriendly UI.
 
-          - Bullet point
-          - Bullet point
+        Roles and Responsibilities:
+       
+        - Involved in Epic Grooming with Requirement analysis and Design discussion.   
+        - Actively involved in Story Grooming with Team members and BA.
+        - Actively participated on technical discussion of each story before playing.
+        - Continuously monitoring Full Data set Hadoop compilation time and analyze the
+          way to reduce it.
+        - Reduced Project Offline Compilation time from 24 hours to less than 10 hours.
+        - Performed different types of testing like Unit Testing, Integration Testing, Data
+          Validation Testing, Load Testing, etc.
+        - Actively participated on Sprint Planning and Retrospective.
 
     - role: Application Developer
       time: 2012 - 2014
-      company: Amazon, London
+      company:  Nepalgunj Technical College (Developer + Instructor)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+            - Fulfilled multiple critical roles, coordinating the design and development of key
+              enterprise applications based on Spring framework.
+            - Led and executed the development of NTC Management System, a businesscritical Java application that automated and optimized several campus-wide
+              processes.
+            - Gathered requirements, performed impact analysis, and designed the
+              application.
+            - Used HQL and Hibernate for object relational mapping.
+            - Used Oracle as the backend database and WebSphere as the application
+              server.
+            - Used Spring framework for dependency injection.
+            - Provided oversight and mentorship on programming and development to junior
+             team members.
 
 projects:
     title: Projects
@@ -153,26 +154,6 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
