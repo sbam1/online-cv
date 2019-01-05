@@ -3,7 +3,6 @@ body {
     font-family: 'Roboto', sans-serif;
     color: $text-color-secondary;
     background: $smoky-white;
-    text-align: justify;
     font-size: 14px;
     padding: 30px;
     -webkit-font-smoothing: antialiased;
@@ -27,11 +26,6 @@ a {
 
 p {
     line-height: 1.5;
-}
-
-B {
-    line-height: 1.5;
-     padding: 30px;
 }
 
 .wrapper {
