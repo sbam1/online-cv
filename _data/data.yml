@@ -83,20 +83,20 @@ education:
 experiences:
     - role: Java Developer
       time: 2017 - Present
-      company: Startup Hubs, San Francisco
+      company: Gap Inc, Columbus, OH
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+       As a Software Developer, maintain J2EE Event Driven Web Application implemented with
+       Spring, Spring Boot, Spring Data, REST Services, Mongo DB and MQ services to operate
+       Gap Distribution Centers as automatic as possible and integrated with multiple external systems.
+       Roles and Responsibilities:
+       - Migrated Mongo DB based Event Streaming Service to Kafka Event Streaming Service.
+       - Actively participated to migrate existing UI interface to new designed with React JS.
+       - Worked on TDD pattern and Pair Programming.
+       - Involved in 3 Amigo while starting every new story and discussed with QA and PDM’s
+         about scope and test coverage needed on particular story.
+       - Strongly participated on Production defects and solved with in limited time frame so
+         that Distribution Center can operate as smoothly as possible.
+       - Implemented complex logic to fulfil distribution Center requirements
 
     - role: Software Engineer
       time: 2015 - 2017
