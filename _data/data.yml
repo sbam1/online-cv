@@ -51,16 +51,14 @@ career-profile:
      adapt to new technical environments. Outstanding communication skills; interface effectively with
      upper managers, staff, peers and clients.
      
-     <B>Operating Systems:</B> Windows, Linux, Mac OS \n
-     Languages: Java, JavaScript, XML, HTML, CSS, C, C++, Visual Basic, VB.Net,
-                Code R, React JS
-     Databases: MySQL, Oracle, Mongo DB, Riak
-     Tools: JUnit, Spock, SonarQube, Docker, PCF, Git, GitHub, Maven,
-            Gradle, Jenkins, Kafka Tool, Kafka Burrow, Jira, Service Now
-     Related Skills: J2EE/JEE, Kafka, Cascading, Groovy, Apache Camel, Web
-                     Services (SOAP, REST), Spring MVC, JSP, EJB, JSF, Servlet,
-                     Hibernate, JMS, Glassfish, Apache Tomcat, Design Patterns,
-                     Waterfall, Software Prototype, Iterative, RAD, Agile
+     <B>Operating Systems:</B> Windows, Linux, Mac OS <br/>
+     <B>Languages:</B> Java, JavaScript, XML, HTML, CSS, C, C++, Visual Basic, VB.Net, Code R, React JS  <br/>
+     <B>Databases:</B> MySQL, Oracle, Mongo DB, Riak  <br/>
+     <B>Tools:</B> JUnit, Spock, SonarQube, Docker, PCF, Git, GitHub, Maven, Gradle, Jenkins, Kafka Tool,
+                   Kafka Burrow, Jira, Service Now  <br/>
+     <B>Related Skills:</B> J2EE/JEE, Kafka, Cascading, Groovy, Apache Camel, Web Services (SOAP, REST),
+     Spring MVC, JSP, EJB, JSF, Servlet, Hibernate, JMS, Glassfish, Apache Tomcat, Design Patterns,Waterfall,
+     Software Prototype, Iterative, RAD, Agile  <br/>
 
 education:
     - degree: MSc in Computer Science
