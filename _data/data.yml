@@ -19,26 +19,23 @@ sidebar:
     github: sbam1
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@BamSuseel'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Nepali
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Canping
         link:
 
-      - item: Snowboarding
+      - item: Video Games
         link:
 
       - item: Cooking
@@ -47,18 +44,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+     Highly skilled Software Developer with 4+ years of success driving full lifecycle development of
+     state-of-the-art software, web-based, and enterprise level applications. Experienced in executing
+     full SDLC, from requirements gathering and conceptual design through development, testing, and
+     implementation. Demonstrate superior analysis, coding, and debugging skills; able to rapidly
+     adapt to new technical environments. Outstanding communication skills; interface effectively with
+     upper managers, staff, peers and clients.
 
       Second paragraph if required.
 
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: Maharishi University of Management
+      time: 2014 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,8 +67,8 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - degree: Bachelor in Computer Engineering
+      university: Pokhara University
       time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -83,8 +81,8 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
+    - role: Java Developer
+      time: 2017 - Present
       company: Startup Hubs, San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -100,8 +98,8 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
+    - role: Software Engineer
+      time: 2015 - 2017
       company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -113,7 +111,7 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
+    - role: Application Developer
       time: 2012 - 2014
       company: Amazon, London
       details: |
@@ -178,23 +176,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 90%
 
       - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
